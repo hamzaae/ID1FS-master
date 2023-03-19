@@ -1,0 +1,387 @@
+2023-01-04 23:12:40,353:root:ERROR:An error occurred. Server is Down!
+2023-01-05 18:20:40,688:root:ERROR:An error occurred. Server is Down!
+2023-01-05 18:23:20,273:root:ERROR:An error occurred. Server is Down!
+2023-01-05 18:23:41,802:root:ERROR:An error occurred. Server is Down!
+2023-01-05 18:24:54,424:root:ERROR:An error occurred. Server is Down!
+2023-01-05 18:30:59,711:root:ERROR:An error occurred. Server is Down!
+2023-01-05 18:31:12,240:root:ERROR:An error occurred. Server is Down!
+2023-01-05 18:31:28,821:root:ERROR:An error occurred. Server is Down!
+2023-01-05 18:31:55,236:root:ERROR:An error occurred. Server is Down!
+2023-01-05 18:36:00,164:root:ERROR:An error occurred. Server is Down!
+2023-01-05 18:36:10,243:root:ERROR:An error occurred. Server is Down!
+2023-01-05 18:36:33,806:root:ERROR:An error occurred. Server is Down!
+2023-01-05 18:38:40,591:root:ERROR:An error occurred. Server is Down!
+2023-01-05 18:39:37,341:root:ERROR:An error occurred. Server is Down!
+2023-01-05 18:41:05,008:root:ERROR:An error occurred. Server is Down!
+2023-01-05 18:41:15,362:root:ERROR:An error occurred. Server is Down!
+2023-01-05 18:41:50,400:root:ERROR:An error occurred. Server is Down!
+2023-01-05 18:43:20,954:root:ERROR:An error occurred. Server is Down!
+2023-01-05 19:09:57,907:root:ERROR:An error occurred. Server is Down!
+2023-01-05 19:10:05,914:root:ERROR:An error occurred. Server is Down!
+2023-01-05 19:11:51,351:root:ERROR:An error occurred. Server is Down!
+2023-01-05 19:13:04,985:root:ERROR:An error occurred. Server is Down!
+2023-01-05 23:34:58,737:root:ERROR:Wrong password!
+2023-01-05 23:35:05,624:root:ERROR:Syntax error of command put, try help!
+2023-01-05 23:36:55,389:root:ERROR:File doesnt exists!
+2023-01-05 23:37:06,865:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:06,914:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:06,956:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:06,977:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:06,993:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,024:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,042:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,062:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,078:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,117:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,130:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,141:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,162:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,197:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,216:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,235:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,257:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,279:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,306:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,345:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,383:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,396:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,413:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,429:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,458:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,469:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,485:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,506:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,528:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,554:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,582:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,603:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,631:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,673:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,723:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,760:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,802:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,829:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,863:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,903:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,941:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,960:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:07,990:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,009:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,029:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,057:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,075:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,118:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,134:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,164:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,245:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,275:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,316:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,354:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,387:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,413:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,438:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,457:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,473:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,492:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,519:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,546:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,561:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,574:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,606:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,622:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,654:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,673:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,710:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,748:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,779:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,803:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,825:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,847:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,868:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,887:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,925:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,965:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:08,988:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,015:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,049:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,073:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,105:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,124:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,149:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,168:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,184:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,207:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,231:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,256:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,276:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,290:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,323:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,351:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,373:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,396:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,411:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,438:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,465:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,485:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,507:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,526:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,548:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,567:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,584:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,610:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,629:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,657:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,697:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,728:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,744:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,761:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,779:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,802:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,855:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,873:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,901:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,923:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,942:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,973:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:09,992:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,017:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,036:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,050:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,076:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,101:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,164:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,178:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,195:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,214:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,241:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,256:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,287:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,318:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,351:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,391:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,413:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,431:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,448:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,463:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,500:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,516:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,534:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,562:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,590:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,617:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,647:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,661:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,690:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,708:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,727:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,758:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,783:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,800:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,826:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,845:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,885:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,900:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,921:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,943:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,977:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:10,998:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,044:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,083:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,117:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,128:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,142:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,170:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,194:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,226:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,260:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,288:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,321:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,345:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,370:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,399:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,421:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,483:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,502:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,527:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,555:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,576:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,597:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,634:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,667:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,685:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,712:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,738:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,789:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,814:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,855:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,900:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,923:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,968:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:11,989:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,024:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,044:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,066:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,095:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,147:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,178:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,212:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,249:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,293:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,344:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,390:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,433:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,476:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,511:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,586:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,629:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,669:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,715:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,757:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,810:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,847:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,869:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,905:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,944:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,966:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:12,991:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,005:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,026:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,043:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,062:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,088:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,102:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,118:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,134:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,151:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,165:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,207:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,228:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,254:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,285:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,341:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,381:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,421:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,441:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,458:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,478:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,536:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,557:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,579:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,614:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,636:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,660:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,699:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,726:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,765:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,794:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,822:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,850:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,909:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,952:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,975:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:13,994:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,020:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,058:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,081:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,106:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,126:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,151:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,173:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,211:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,241:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,261:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,283:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,307:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,342:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,387:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,413:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,445:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,475:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,504:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,530:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,577:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,614:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,649:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,686:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,704:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,726:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,768:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,796:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,819:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,841:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,864:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,893:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,931:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,958:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:14,988:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,014:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,033:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,074:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,102:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,140:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,162:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,204:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,224:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,264:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,301:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,327:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,353:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,372:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,397:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,443:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,468:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,490:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,510:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,541:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,564:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,635:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,664:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,685:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,716:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,749:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,778:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,813:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,837:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,869:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,892:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,914:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,935:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:15,986:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:16,011:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:16,044:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:16,069:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:16,100:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:16,159:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:16,198:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:16,217:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:16,245:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:16,273:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:16,294:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:16,328:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:16,357:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:16,398:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:16,420:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:16,441:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:16,466:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:16,505:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:16,530:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:16,552:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:16,574:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:16,612:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:37:16,630:root:ERROR:No rooms found. Possibly a corrupt file
+2023-01-05 23:40:53,930:root:ERROR:An error occurred. Server is Down!
+2023-01-05 23:41:49,832:root:ERROR:File not found!
+2023-01-05 23:45:41,218:root:ERROR:Wrong password!
+2023-01-05 23:45:49,371:root:ERROR:Wrong password!
+2023-01-05 23:46:29,447:root:ERROR:Wrong password!
+2023-01-06 09:44:57,663:root:ERROR:An error occurred. Server is Down!
+2023-01-06 09:47:02,281:root:ERROR:Command not found! Try help
+2023-01-06 09:48:10,040:root:ERROR:Wrong password!
+2023-01-06 09:48:17,031:root:ERROR:Wrong password!
+2023-01-06 09:48:26,848:root:ERROR:Wrong password!
+2023-01-06 09:57:51,901:root:ERROR:Wrong password!
+2023-01-06 12:56:24,122:root:ERROR:An error occurred. Server is Down!
+2023-01-10 00:21:32,266:root:ERROR:Syntax error of command put, try help!
+2023-01-10 00:30:15,658:root:ERROR:An error occurred. Server is Down!
+2023-01-10 12:26:59,061:root:ERROR:Wrong password!
+2023-01-10 12:37:35,120:root:ERROR:Wrong password!
