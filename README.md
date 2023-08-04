@@ -22,3 +22,12 @@ Exigences :
  •  Ensuite pour que notre ID1FS soit plus sécuriser,  les commandes sensibles «ID1fs put, ID1FS get, ID1FS remove et ID1FS chpass » nécessite un password qui est par default  « id1fs » et après tu peux le changer à partir du commande « ID1FS chpass »
  •  Afin de savoir tous les commandes possibles dans ID1FS vous pouvez taper la commande «  ID1FS help »
  •  Il faut toujours être placé dans le dossier ID1FS pour lancer les commandes. 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ ![image](https://github.com/hamzaae/ID1FS-master/assets/122805922/07637a33-6ce3-426d-97cc-f7e9a05fbb9e)
+
+ ![image](https://github.com/hamzaae/ID1FS-master/assets/122805922/8c661095-12a2-4c5f-a807-7cb98a8b4568)
+
+ ![image](https://github.com/hamzaae/ID1FS-master/assets/122805922/404b318f-1de8-4d81-936a-dd80f90c1157)
+
