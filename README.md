@@ -1,4 +1,4 @@
-IDFS (Academic project with contribution of "NADI Hanane" & "BENLEMKADEM Zakaria") is a distributed file system built in python and shell based on HDFS architecture
+IDFS (Academic project) is a distributed file system built in python and shell based on HDFS architecture
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 [ENG]
 
